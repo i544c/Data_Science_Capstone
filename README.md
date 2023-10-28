@@ -1,7 +1,7 @@
 ## My links for Milestone Report is here:
 **Presentation:** <http://rpubs.com/i544c/milestone_report> 🚧 **`NOTE:` Rpubs is temporarily down!**  
-**PDF:** ✨ <https://github.com/i544c/Data_Science_Capstone/blob/main/milestone_report.pdf> ✨ 
-**HTML:** 📥 <> Download and upload to your computer.
+**PDF:** ✨ <https://github.com/i544c/Data_Science_Capstone/blob/main/milestone_report.pdf> ✨  
+**HTML:** 📥 <https://github.com/i544c/Data_Science_Capstone/blob/main/milestone_report.html> Download and upload to your computer.
 
 ![rpubs](https://github.com/i544c/Data_Science_Capstone/assets/104391905/16827c14-653c-45ad-9918-031d091252c0)
 
